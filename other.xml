@@ -1,0 +1,31 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.linuxAI/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Google Drive/projects/Grub Modifier/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Google-Drive/projects/linuxAI/env/bin/python" value="false" />
+        <entry key="/opt/linuxAI/env/bin/python" value="false" />
+        <entry key="/usr/bin/python3.6" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.linuxAI/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Google Drive/projects/Grub Modifier/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Google-Drive/projects/linuxAI/env/bin/python" value="false" />
+        <entry key="/opt/linuxAI/env/bin/python" value="false" />
+        <entry key="/usr/bin/python3.6" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/.linuxAI/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Google Drive/projects/Grub Modifier/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Google-Drive/projects/linuxAI/env/bin/python" value="false" />
+        <entry key="/opt/linuxAI/env/bin/python" value="false" />
+        <entry key="/usr/bin/python3.6" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
